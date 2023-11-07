@@ -15,6 +15,7 @@ Shiny Clause - Given that a shiny Pokémon is RANDOMLY found, you may catch it. 
 Dupe Clause - If the first encounter is a Pokémon that's already been caught, it can be skipped, and the next Pokémon found will be deemed the "first encounter".
  
 ## Level Caps
+### Johto
 Gym 1: Lvl 13 \
 Gym 2: Lvl 17 \
 Gym 3: Lvl 19 \
@@ -30,7 +31,8 @@ Elite Four 3: Lvl 46 \
 Elite Four 4: Lvl 47
  
 Champion: Lvl 50
- 
+
+### Kanto
 Pewter City Gym: Lvl 54 \
 Cerulean City Gym: Lvl 54 \
 Vermillion City Gym: Lvl 53 \
