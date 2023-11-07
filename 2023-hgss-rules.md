@@ -1,6 +1,8 @@
 # Pokémon Heartgold Nuzlocke Rules
 These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be completed on https://twitch.tv/foshes
 
+<b>Start date: November 10th, 2023</b>
+
 ## General Rules
 1) Can only catch the first Pokémon seen on each route/cave/town.
 2) All Pokémon must have nicknames.
