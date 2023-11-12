@@ -6,7 +6,7 @@ These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be complete
 ## General Rules
 1) Can only catch the first Pokémon seen on each route/cave/town.
 2) All Pokémon must have nicknames.
-3) If a Pokémon faints, it is dead and no longer usable. Must either release or place them in a graveyard PC box.
+3) If a Pokémon faints, it is dead and no longer usable. Must release it, no exceptions.
 4) No items allowed during battle, no exceptions. The only items allowed to be used during battle are held items.
 5) Pokémon that level up during a gym battle cannot be used if they exceed the level limit.
 6) Battle must be in Set mode.
