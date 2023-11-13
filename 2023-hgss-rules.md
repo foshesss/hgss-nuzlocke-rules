@@ -12,6 +12,7 @@ These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be complete
 6) Battle must be in Set mode.
 7) No breeding allowed.
 8) HM slaves are allowed but cannot be used in battle or leveled at all.
+9) Once a gym has been entered, you cannot leave it until complete.
  
 <ins>Shiny Clause</ins> - Given that a shiny Pokémon is RANDOMLY found, you may catch it. The exception to this rule is the Lake of Rage-- the in-world shiny Gyarados counts as an encounter. \
 <ins>Dupe Clause</ins>  - If the first encounter is a Pokémon that's already been caught, it can be skipped, and the next Pokémon found will be deemed the "first encounter".
