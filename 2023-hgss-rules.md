@@ -25,7 +25,7 @@ Gym 3: Lvl 19 \
 Gym 4: Lvl 25 \
 Gym 5: Lvl 31 \
 Gym 6: Lvl 35 \
-Gym 7: Lvl 34 \
+Gym 7: Lvl 35 \
 Gym 8: Lvl 41
  
 Elite Four 1: Lvl 42 \
