@@ -29,12 +29,7 @@ Gym 6: Lvl 35 \
 Gym 7: Lvl 35 \
 Gym 8: Lvl 41
  
-Elite Four 1: Lvl 42 \
-Elite Four 2: Lvl 44 \
-Elite Four 3: Lvl 46 \
-Elite Four 4: Lvl 47
- 
-Champion: Lvl 50
+Elite Four: Lvl 50
 
 ### Kanto
 Pewter City Gym: Lvl 54 \
