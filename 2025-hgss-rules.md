@@ -1,7 +1,7 @@
-# Pokémon Heartgold Nuzlocke Rules
-These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be completed on https://twitch.tv/foshes
+# Pokémon Heartgold Randomized Nuzlocke Rules
+These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be completed on https://twitch.tv/derpmonster83
 
-<b>Start date: November 12th, 2023</b>
+<b>Start date: January 26th, 2025</b>
 
 ## General Rules
 1) Can only catch the first Pokémon seen on each route/cave/town.
@@ -17,6 +17,11 @@ These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be complete
 <ins>In-world Encounters</ins>  - All in-world encounters can be caught and will not count towards your first encounter (as long as they are not dupes). \
 <ins>Shiny Clause</ins> - Given that a shiny Pokémon is RANDOMLY found, you may catch it. The exception to this rule is the Lake of Rage-- the in-world shiny Gyarados counts as an encounter. \
 <ins>Dupe Clause</ins>  - If the first encounter is a Pokémon that's already been caught, it can be skipped, and the next Pokémon found will be deemed the "first encounter".
+
+## Randomization
+- Pokemon are randomized to be at a similar strength.
+- Trainers can have Legendaries, and important battles will always have 6 pokemon.
+- TMs/HMs are completely randomized, with the exception of important TMs (like Headbutt or Dig).
  
 ## Level Caps
 ### Johto
