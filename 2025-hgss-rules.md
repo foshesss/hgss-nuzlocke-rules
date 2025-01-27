@@ -1,7 +1,7 @@
 # Pokémon Heartgold Randomized Nuzlocke Rules
 These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be completed on https://twitch.tv/derpmonster83
 
-<b>Start date: January 26th, 2025</b>
+<b>Start date: January 27th, 2025</b>
 
 ## General Rules
 1) Can only catch the first Pokémon seen on each route/cave/town.
