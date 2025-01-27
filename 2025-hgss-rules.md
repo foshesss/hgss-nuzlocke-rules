@@ -14,7 +14,7 @@ These are rules for a hardcore Pokémon Heartgold Nuzlocke that will be complete
 8) HM slaves are allowed but cannot be used in battle or leveled at all.
 9) Once a gym has been entered, you cannot leave it until complete.
 
-<ins>In-world Encounters</ins>  - All in-world encounters can be caught and will not count towards your first encounter (as long as they are not dupes). \
+<ins>Special In-world Encounters</ins>  - All in-world encounters can be caught and will not count towards your first encounter (as long as they are not dupes). \
 <ins>Shiny Clause</ins> - Given that a shiny Pokémon is RANDOMLY found, you may catch it. The exception to this rule is the Lake of Rage-- the in-world shiny Gyarados counts as an encounter. \
 <ins>Dupe Clause</ins>  - If the first encounter is a Pokémon that's already been caught, it can be skipped, and the next Pokémon found will be deemed the "first encounter".
 
